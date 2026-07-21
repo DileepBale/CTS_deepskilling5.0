@@ -1,13 +1,13 @@
-# Advanced Angular Concepts
+# Week 6 – Modern Development Practices
 
-## Topics Covered
-- RxJS & Reactive Programming
-- State Management
-- Guards & Interceptors
-- Custom Directives & Pipes
-- Change Detection Strategies
-- Performance Optimization
-- Unit Testing in Angular
+Best practices for collaborative development:
 
-## Resources
-- Add advanced Angular projects here
+- Advanced Angular Concepts
+- Git & GitHub
+- Continuous Integration & Continuous Deployment (CI/CD)
+
+## Folders
+
+- **Angular/** - Advanced Angular patterns and techniques
+- **Git/** - Version control and GitHub workflows
+- **CI-CD/** - CI/CD pipeline setup and automation
